@@ -1,0 +1,61 @@
+{
+    "type": "debug",
+    "token": "your_token_bot_discord",
+    "serverid": "your_serverid_discord",
+    "RoleName": "shoppy",
+    
+    "linkapi": "https://app.a213-shoppy.fr/api/owner/",
+    "ownerapi": "your_ownerapi_token_premium",
+    
+    "AvatarBOT":"https://i.imgur.com/w2PVCAO.png",
+    "ImageBOT":"https://i.imgur.com/gLZcdum.gif",
+    "NameBOT":"ShoppyBot",
+    "CurrencyBOT" : "€",
+    "ColorEmbed":"#00d97a",
+    "FooterEmbedText" : "ShoppyBot",
+
+    "slash_clear_messages":"clear-messages",
+    "descption_clear_messages":"Clear messages in channel",
+
+    "slash_help_commands":"help-commands",
+    "descption_help_commands":"See All Commands",
+
+    "slash_key_add":"key-add",
+    "descption_key_add":"Add Key in Product",
+
+    "slash_key_gen":"key-gen",
+    "descption_key_gen":"Get a users wallet",
+
+    "slash_key_stock":"key-stock",
+    "descption_key_stock":"Keys in stock",
+
+    "slash_product_add":"product-add",
+    "descption_product_add":"Add products to your shop",
+
+    "slash_product_buy":"product-buy",
+    "descption_product_buy":"Buy a product on the shop",
+
+    "slash_product_edit":"product-edit",
+    "descption_product_edit":"Edit a product on the shop",
+
+    "slash_settings_bot":"settings-bot",
+    "descption_settings_bot":"Change settings values",
+
+    "slash_settings_setup":"settings-setup",
+    "descption_settings_setup":"Register bot to start using",
+
+    "slash_settings_slash":"settings-slash",
+    "descption_settings_slash":"Change Name Slash Commands",
+
+    "slash_wallet_balance":"wallet-balance",
+    "descption_wallet_balance":"Get a users Wallet",
+
+    "slash_wallet_edit":"wallet-edit",
+    "descption_wallet_edit":"Edit a users Wallet",
+
+    "slash_wallet_gencode":"wallet-gencode",
+    "descption_wallet_gencode":"Generate Code Reload Wallet",
+
+    "slash_wallet_reload":"wallet-reload",
+    "description_wallet_reload":"Reload your wallet"
+}
