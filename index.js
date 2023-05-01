@@ -104,21 +104,6 @@ client.on('interactionCreate', async interaction => {
     content += "\n" + interaction.options._hoistedOptions[i].name + " : " + interaction.options._hoistedOptions[i].value;
 	}
 	
-	/*
-    let wh_url = await db.get(`wh_url_${idfrom}`)
-	if(wh_url != null) {
-		var params = {
-			content: content
-		}
-		fetch(wh_url, {
-			method: "POST",
-			headers: {
-				'Content-type': 'application/json'
-			},
-			body: JSON.stringify(params)
-		})
-	}
-    */
 		
     try {
         await command.execute(interaction);

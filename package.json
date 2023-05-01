@@ -10,26 +10,26 @@
     "path": "^0.12.7",
     "quick.db": "^7.1.3"
   },
-  "name": "keyauth_discord_bot",
-  "version": "2.0.0",
-  "description": "KeyAuth Authentication SellerAPI Discord Bot",
+  "name": "shoppy_bot",
+  "version": "1.0.0",
+  "description": "ShoppyBot - Discord Bot - OwnerAPI Premium",
   "main": "index.js",
   "scripts": {
     "test": "/help"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KeyAuth/KeyAuth-Discord-Bot.git"
+    "url": "git+https://github.com/ShoppyBot/discord-bot.git"
   },
   "keywords": [
-    "keyauth",
+    "shoppybot",
     "sellerapi",
     "discordjs13"
   ],
-  "author": "KeyAuth, mazk#9154",
+  "author": "Devkush, Devkush#8164",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KeyAuth/KeyAuth-Discord-Bot/issues"
+    "url": "https://github.com/ShoppyBot/issues"
   },
-  "homepage": "https://github.com/KeyAuth/KeyAuth-Discord-Bot#readme"
+  "homepage": "https://github.com/ShoppyBot/#readme"
 }
